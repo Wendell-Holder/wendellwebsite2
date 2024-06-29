@@ -1,0 +1,39 @@
+.banner{
+    display: flex;
+}
+
+.introduction{
+    width: 50%;
+    background-color: rgb(3,87,88);
+}
+
+.image{
+    width: 50%;
+}
+
+h4{
+    color: yellow;
+    font-size: 2em;
+}
+
+ul{
+    display: flex;
+    color: white;
+    list-style: none;
+
+}
+
+  li{
+    margin: 10px;
+  }
+  
+  span{
+    color: yellow;
+    font-size: 3em;
+  }
+
+  h1{
+    font-size: 7em;
+    color: white;
+  }
+
